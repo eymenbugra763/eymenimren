@@ -1,0 +1,97 @@
+#menu{
+    list-style: none;
+    margin-top: 0px;
+    border: 1px solid red;
+    position: left;
+    size: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#menu li{
+    display: inline;
+    position: relative;
+    margin-right: 20px;
+}
+
+
+span{
+    color: darkorange;
+}
+
+.baslik{
+   text-align: center;
+   font-size: 35px;
+}
+
+
+.kesfet{
+
+    text-align: center;
+    width: 33.3%;
+    float: left;
+    position: relative;
+}
+
+.div1{
+    float: left;
+    width: 100%;
+}
+
+.kesfet:nth-child(1){
+
+background: url("img/or1.jpg") no-repeat; 
+background-size: 100%;
+
+}
+
+
+#hocalogo{
+    width: 200px;
+    height: 200px;
+}
+
+
+footer{
+
+border: 1px solid 255, 0, 0, 0.1;
+list-style: none;
+
+}
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0%;
+}
+
+
+
+#change{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+
+#dscv1{
+
+background-image: url("cataddog.png");
+width: 380px;
+height: 490px;
+
+}
+
+body{
+
+
+
+background-color: #662b2b;
+color: aliceblue;
+
+
+
+
+}
